@@ -5,5 +5,5 @@
 * Medium's articles: 
   + [The best cryptographic protocol ever!](https://cryptosubtlety.medium.com/the-best-cryptographic-protocol-ever-31ee5108aaa2)
   + [00](https://cryptosubtlety.medium.com/00-8d4adcf4d255)
-  + [Basic Web Security](https://cryptosubtlety.medium.com/basic-web-security-1bc1be54f39a)
+  + [Basic Web Security](https://medium.com/@cryptosubtlety/basic-web-security-77e41a4e3008)
 
