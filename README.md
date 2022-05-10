@@ -1,5 +1,5 @@
 * Black Hat Speaker: [USA 2021](https://www.blackhat.com/us-21/briefings/schedule/#zero---the-funniest-number-in-cryptography-228901625065256), [Asia 2022](https://www.blackhat.com/asia-22/briefings/schedule/index.html#using-zero-to-attack-zero-knowledge-proof-zkp-plonk-25941)
-* Rank #2 in [Eth2 bug bounty program](https://ethereum.org/en/eth2/get-involved/bug-bounty/), July 2021
+* Rank #2 in Eth2 bug bounty program, July 2021
 * Nominated to Black Hat Pwnie Award for [Best Cryptographic Attack, 2017](https://pwnies.com/critical-vulnerability-in-json-web-encryption/)
 * Google Technical Infrastructure Award, 2017 for contribution to Google cryptanalysis project [Wycheproof](https://github.com/google/wycheproof/blob/master/doc/bugs.md)
 * Medium's articles: 
