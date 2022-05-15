@@ -6,4 +6,5 @@
   + [The best cryptographic protocol ever!](https://cryptosubtlety.medium.com/the-best-cryptographic-protocol-ever-31ee5108aaa2)
   + [00](https://cryptosubtlety.medium.com/00-8d4adcf4d255)
   + [Basic Web Security](https://medium.com/@cryptosubtlety/basic-web-security-77e41a4e3008)
+* Báo chí (Vietnamese): [Bỏ ngang tiến sĩ, kỹ sư 8X trở thành chuyên gia tấn công mật mã](https://vietnamnet.vn/bo-ngang-tien-si-nghi-lam-google-8x-tro-thanh-chuyen-gia-tan-cong-bao-mat-2018920.html)
 
